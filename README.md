@@ -78,7 +78,7 @@ The interface is built as a responsive 960x600 dark-themed desktop dashboard dis
 * **Multi-Digit Recognition (Sliding Window):** Upgrading the OpenCV pipeline to detect multiple distinct digit contours on the canvas simultaneously, feeding them sequentially through the network to evaluate written math (e.g., recognizing "24" instead of just "2" and "4").
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 canvas-mnist/
@@ -93,3 +93,6 @@ canvas-mnist/
 └── README.md
 
 ```
+## Demo
+
+![Canvas-to-Matrix Demo](https://github.com/user-attachments/assets/4e28029a-dae3-490c-a8cf-f43466860dab)
